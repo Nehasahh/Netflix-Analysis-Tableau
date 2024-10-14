@@ -1,6 +1,7 @@
 # Project: Netflix Content Analysis Dashboard using Tableau
 
-# Objective: To provide a comprehensive and interactive exploration of Netflix’s content library, highlighting regional popularity, trends, genre insights, and viewer interests.
+# Objective: 
+To provide a comprehensive and interactive exploration of Netflix’s content library, highlighting regional popularity, trends, genre insights, and viewer interests.
 
 # Data Cleaning and Preparation:
 The project began with gathering the Netflix dataset, which contained raw information on shows, movies, ratings, genres, and regional preferences. Recognizing the importance of clean data for reliable analysis, I followed a systematic data cleaning process:
